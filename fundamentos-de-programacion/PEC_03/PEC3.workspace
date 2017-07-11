@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="PEC3" Database="" Version="10.0.0">
+  <Project Name="Discounts" Path="Discounts/Discounts.project" Active="Yes"/>
+  <Project Name="Shops" Path="Shops/Shops.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Discounts" ConfigName="Debug"/>
+      <Project Name="Shops" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Discounts" ConfigName="Release"/>
+      <Project Name="Shops" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

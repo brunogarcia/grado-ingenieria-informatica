@@ -1,0 +1,8 @@
+1 Filosofia
+2 Religio
+3 Socials
+5 Ciencia
+6 Aplicades
+7 Arts
+8 Llengua
+9 Historia

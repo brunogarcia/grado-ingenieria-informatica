@@ -1,0 +1,8 @@
+1 Philosophy
+2 Religion
+3 Social 
+5 Science
+6 Applied
+7 Arts
+8 Language
+9 History

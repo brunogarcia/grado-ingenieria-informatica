@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="PEC1" Database="" Version="10.0.0">
+  <Project Name="checkMean" Path="checkMean/checkMean.project" Active="No"/>
+  <Project Name="capsSwitch" Path="capsSwitch/capsSwitch.project" Active="No"/>
+  <Project Name="numPal" Path="numPal/numPal.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="checkMean" ConfigName="Debug"/>
+      <Project Name="capsSwitch" ConfigName="Debug"/>
+      <Project Name="numPal" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="checkMean" ConfigName="Release"/>
+      <Project Name="capsSwitch" ConfigName="Release"/>
+      <Project Name="numPal" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

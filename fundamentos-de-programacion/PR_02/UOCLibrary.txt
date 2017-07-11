@@ -1,0 +1,1 @@
+./Debug/src_api.c.o ./Debug/src_books.c.o ./Debug/src_main.c.o ./Debug/src_menu.c.o ./Debug/src_sections.c.o ./Debug/src_test.c.o ./Debug/src_stack.c.o ./Debug/src_info.c.o

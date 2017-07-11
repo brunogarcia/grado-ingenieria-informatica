@@ -1,0 +1,1 @@
+./Debug/source_shop.c.o ./Debug/source_tests.c.o ./Debug/source_main.c.o

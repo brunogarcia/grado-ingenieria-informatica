@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="/home/bruno/Documentos/UOCLibrary/UOCLibrary.workspace">
+  <int Value="1" Name="m_selectedTab"/>
+  <wxString Value="/home/bruno/Documentos/UOCLibrary/UOCLibrary.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/home/bruno/Documentos/UOCLibrary/include/data.h" Name="FileName"/>
+      <int Value="40" Name="FirstVisibleLine"/>
+      <int Value="65" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/bruno/Documentos/UOCLibrary/src/books.c" Name="FileName"/>
+      <int Value="105" Name="FirstVisibleLine"/>
+      <int Value="136" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/bruno/Documentos/UOCLibrary/src/sections.c" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="44" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds">
+        <IntVectorItem Value="5"/>
+        <IntVectorItem Value="34"/>
+        <IntVectorItem Value="41"/>
+        <IntVectorItem Value="63"/>
+        <IntVectorItem Value="79"/>
+        <IntVectorItem Value="95"/>
+      </IntVector>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/bruno/Documentos/UOCLibrary/src/test.c" Name="FileName"/>
+      <int Value="63" Name="FirstVisibleLine"/>
+      <int Value="180" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds">
+        <IntVectorItem Value="28"/>
+        <IntVectorItem Value="40"/>
+        <IntVectorItem Value="266"/>
+        <IntVectorItem Value="311"/>
+        <IntVectorItem Value="348"/>
+      </IntVector>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/bruno/Documentos/UOCLibrary/src/menu.c" Name="FileName"/>
+      <int Value="186" Name="FirstVisibleLine"/>
+      <int Value="191" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/bruno/Documentos/UOCLibrary/src/api.c" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="46" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/bruno/Documentos/UOCLibrary/include/test.h" Name="FileName"/>
+      <int Value="1" Name="FirstVisibleLine"/>
+      <int Value="30" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>
