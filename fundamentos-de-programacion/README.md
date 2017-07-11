@@ -1,4 +1,4 @@
-# UOC - Fundamentos de programación
+# UOC - Fundamentos de programación (1º semestre -2017)
 
 Esta asignatura es el punto de inicio a las técnicas de programación. La profundización se hará cursando las asignaturas siguientes del plan de estudios: Prácticas de Programación y Diseño y Programación Orientada a Objetos.
 
