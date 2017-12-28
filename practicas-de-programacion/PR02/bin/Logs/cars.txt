@@ -1,0 +1,4 @@
+1234BCD;Volkswagen;Polo;0;0
+4567FGH;Ford;Focus;0;1
+9876GFD;Ford;Transit;0;2
+2468GLM;Seat;Leon;0;1

@@ -1,0 +1,1 @@
+./Debug/src_helpers.c.o ./Debug/src_operations.c.o ./Debug/src_cars.c.o ./Debug/src_offices.c.o

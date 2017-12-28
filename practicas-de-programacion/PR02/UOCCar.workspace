@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="UOCCar" Database="" Version="10.0.0">
+  <Project Name="UOCCarServer" Path="UOCCarServer/UOCCarServer.project" Active="No"/>
+  <Project Name="UOCCarLib" Path="UOCCarLib/UOCCarLib.project" Active="Yes"/>
+  <Project Name="UOCCarApp" Path="UOCCarApp/UOCCarApp.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="UOCCarServer" ConfigName="Debug"/>
+      <Project Name="UOCCarLib" ConfigName="Debug"/>
+      <Project Name="UOCCarApp" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="UOCCarServer" ConfigName="Release"/>
+      <Project Name="UOCCarLib" ConfigName="Release"/>
+      <Project Name="UOCCarApp" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
