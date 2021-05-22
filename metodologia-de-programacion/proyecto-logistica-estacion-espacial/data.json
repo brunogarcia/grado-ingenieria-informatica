@@ -1,0 +1,83 @@
+{
+ "rockets": [
+  {
+   "id": "falcon1",
+   "payload": 600,
+   "success": false
+  },
+  {
+   "id": "falcon9",
+   "payload": 22800,
+   "success": false
+  }
+ ],
+ "requests": [
+  {
+   "id": "p04",
+   "description": "spare parts",
+   "weight": 20.2,
+   "daysMaxToDeliver": 3,
+   "status": "IMPOSSIBLE_TO_FULFILL"
+  },
+  {
+   "id": "p01",
+   "description": "oxygen",
+   "weight": 105.7,
+   "daysMaxToDeliver": 28,
+   "status": "ALLOCATED"
+  },
+  {
+   "id": "p02",
+   "description": "food",
+   "weight": 300.0,
+   "daysMaxToDeliver": 28,
+   "status": "ALLOCATED"
+  },
+  {
+   "id": "p03",
+   "description": "spare parts",
+   "weight": 800.0,
+   "daysMaxToDeliver": 60,
+   "status": "ALLOCATED"
+  }
+ ],
+ "missions": [
+  {
+   "id": "m01",
+   "rocketId": "falcon1",
+   "daysToArriveAtStation": 10,
+   "status": "ON_ROUTE"
+  },
+  {
+   "id": "m02",
+   "rocketId": "falcon1",
+   "daysToArriveAtStation": 30,
+   "status": "ON_HOLD"
+  },
+  {
+   "id": "m03",
+   "rocketId": "falcon9",
+   "daysToArriveAtStation": 60,
+   "status": "ON_ROUTE"
+  }
+ ],
+ "assignments": [
+  {
+   "missionId": "m01",
+   "daysToArriveAtStation": 10,
+   "payload": 194.3,
+   "requestIds": [
+    "p01",
+    "p02"
+   ]
+  },
+  {
+   "missionId": "m03",
+   "daysToArriveAtStation": 60,
+   "payload": 22000.0,
+   "requestIds": [
+    "p03"
+   ]
+  }
+ ]
+}

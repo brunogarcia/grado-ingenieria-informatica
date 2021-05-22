@@ -1,4 +1,4 @@
-# Fundamentos de Computadores
+# VIU - Fundamentos de Computadores (2º semestres 2020)
 
 ## Descripción
 
